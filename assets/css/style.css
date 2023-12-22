@@ -411,7 +411,7 @@ section {
 }
 
 /*--------------------------------------------------------------
-# Akills
+# Skills
 --------------------------------------------------------------*/
 .skills .progress {
   height: 60px;
@@ -864,6 +864,13 @@ section {
   color: #173b6c;
 }
 
+.contact .info a {
+  padding: 0 0 0 15px;
+  margin-bottom: 20px;
+  font-size: 14px;
+  color: #173b6c;
+}
+
 .contact .info .email p {
   padding-top: 5px;
 }
@@ -872,7 +879,7 @@ section {
   padding-left: 60px;
 }
 
-.contact .info .social-links a {
+.contact .info .social-links {
   font-size: 18px;
   display: inline-block;
   background: #333;
